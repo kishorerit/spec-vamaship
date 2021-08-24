@@ -1,0 +1,2 @@
+# spec-vamaship
+vamaship specfile
